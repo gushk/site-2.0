@@ -1313,7 +1313,7 @@ ul.info-list.info_on_right_side li:last-child {
   margin-top: -8px;
   font-weight: 900;
   font-family: "FontAwesome";
-  content: " ";
+  content: "";
   font-size: 14px;
   line-height: 14px;
 }
